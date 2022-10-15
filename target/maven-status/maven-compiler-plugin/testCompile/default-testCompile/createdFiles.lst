@@ -1,0 +1,4 @@
+com\facebook\pom\BasePage.class
+com\facebook\testScripts\BaseTest.class
+com\facebook\testScripts\VerifySignUpPage.class
+com\facebook\pom\SignUpPage.class
